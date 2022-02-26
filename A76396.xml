@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and true intelligence from Reading.· Being a true relation of two late fights betweene the Parliaments forces and the mallgnants [sic]: the one neer Wallingford, where the Parliaments forces under the command of Serjeant-Major Holford slew three hundred of the malignants, whereof two captains were slain, and took 600. armes, one peece of ordnance, foure ensignes, and 80. prisoners, two captains, and seven lievtenants and serjeants. The other neer a town called Slow, with all the proceedings of his Excellencies army about Reading, from the 18. of May to the 24. Sent in a letter from Lievtenant Bennet under the command of Serjeant-Major Holford, (in the regiment of the Right Honourable the Lord Grey) to his brother in London.</title>
+            <author>Bennet, Isaac.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76396</idno>
+            <idno type="STC">Wing B1883A</idno>
+            <idno type="STC">Thomason E104_7</idno>
+            <idno type="STC">ESTC R11692</idno>
+            <idno type="EEBO-CITATION">99859107</idno>
+            <idno type="PROQUEST">99859107</idno>
+            <idno type="VID">155927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155927)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and true intelligence from Reading.· Being a true relation of two late fights betweene the Parliaments forces and the mallgnants [sic]: the one neer Wallingford, where the Parliaments forces under the command of Serjeant-Major Holford slew three hundred of the malignants, whereof two captains were slain, and took 600. armes, one peece of ordnance, foure ensignes, and 80. prisoners, two captains, and seven lievtenants and serjeants. The other neer a town called Slow, with all the proceedings of his Excellencies army about Reading, from the 18. of May to the 24. Sent in a letter from Lievtenant Bennet under the command of Serjeant-Major Holford, (in the regiment of the Right Honourable the Lord Grey) to his brother in London.</title>
+                  <author>Bennet, Isaac.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ph. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.[8]: Isaac Bennet.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holford, --  Serjeant Major --  History, --  Civil War, 1642-1649.</term>
+               <term>Wallingford (Oxfordshire) --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Berkshire (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155927:1" rendition="simple:additions"/>
+            <p>Good and true Intelligence FROM READING</p>
+            <p>BEING A true Relation of two late Fights betweene the Parliaments Forces and the Malignants:</p>
+            <p>The one neer <hi>Wallingford,</hi> where the Parliaments Forces under the command of Serjeant-Major <hi>Holford</hi> ſlew three hundred of the Malignants, whereof two Captains were ſlain, and took 600. armes, one peece of Ordnance, foure Enſignes, and 80. pri<g ref="char:EOLhyphen"/>ſoners, two Captains, and ſeven Lievtenants and Serjeant<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The other neer a town called <hi>Slow,</hi> with all the proceedings of his Excellencies Army about <hi>Reading,</hi> from the 18. of May to the 24.</p>
+            <p>Sent in a Letter from Lievtenant <hi>Bennet</hi> under the command of Serjeant-Major <hi>Helford,</hi> (in the Regiment of the Right Honourable the Lord <hi>Grey</hi>) to his brother in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for P H. SMITH. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155927:2"/>
+            <pb facs="tcp:155927:2"/>
+            <head>True Jntelligence from Reading.</head>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y kind love remembred unto you, wiſhing your welfare. I was ſorry I could have no longer time with you when I was at <hi>London,</hi> to declare unto you my reſolution to adventure my ſelf with others in de<g ref="char:EOLhyphen"/>fence of the cauſe undertaken by the Par<g ref="char:EOLhyphen"/>liament, not only in my eſtate, but perſon, knowing no cauſe undertaken can be more acceptable to God, then the defence of his true religion, and nothing is more a<g ref="char:EOLhyphen"/>vailable to the advancement of peace and tranquillity then the preſervation of the Priviledges of Parliament, lives and liberties of the free-born Subjects of this king<g ref="char:EOLhyphen"/>dome, I have well informed my conſcience of the juſt<g ref="char:EOLhyphen"/>neſſe of the cauſe undertaken by the Parliament, and the illegality and impiety that is daily practiſed in the contra<g ref="char:EOLhyphen"/>ry party, and ſhall count my life a good ſacrifice, if it be offered up for the defence of that cauſe for which they have now taken up arms: I adventure my ſelf, not for hopes of preferment, or lucre of gain to be obtained by the ſame, for my own eſtate you know is ſufficient for my maintenance, and I could imploy my ſelfe and it in ano<g ref="char:EOLhyphen"/>ther way for my particular profit, but my only aim is to advance the publike to the uttermoſt of my power: my Brother <hi>Jonathan</hi> came with me to <hi>Reading</hi> the ſame eve<g ref="char:EOLhyphen"/>ning
+<pb facs="tcp:155927:3"/> I parted from you, and having made my intentions known, I was accepted of by Serjeant-Major <hi>Holford,</hi> who is under the command of the Lord <hi>Gray,</hi> and had the place of a Lievtenant aſſigned unto me under Captain <hi>Audley.</hi> You deſired me to write you the weekly pro<g ref="char:EOLhyphen"/>ceedings of the Army, which I ſhall gladly do to plea<g ref="char:EOLhyphen"/>ſure you: you ſhall receive from me a letter (God wil<g ref="char:EOLhyphen"/>ling) on Munday next of what ſhall occurre in that time and afterwards weekly. I could wiſh you would com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelfe, and I will endeavour to procure you a place. Pray brother remember my kind love to my friends in <hi>Eſſex</hi> when you write thither, and ſend them the newes you have from me, which ſhalbe certain and true.</p>
+            <p>Thurſday the 18. of May about two of the clock in the afternoon, we received information in the army that part of P. <hi>Ruperts</hi> Forces about two thouſand horſe and foot intended to aſſault ſome of our ſouldiers that quar<g ref="char:EOLhyphen"/>tered about <hi>Wallingford,</hi> upon which Warrants were ſent out in the Lord Generals name for the forces in thoſe parts to gather themſelves into a body for their own de<g ref="char:EOLhyphen"/>fence; and that in reſpect his Excellency had not ſubſti<g ref="char:EOLhyphen"/>tute a Generall, or left Inſtructions at his return to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> for the leading forth of the Army in the whole body from <hi>Reading</hi> againſt the Malignants, but only granted out Warrants for the raiſing of the Countrey if violence ſhould be offered by the oppoſite Army, and to defend themſelves if they ſhould ſee cauſe, by which means the Countrey delinquents had good opportunity to have re<g ref="char:EOLhyphen"/>courſe to the Kings Army, and as many as would joyne their perſons with it might, and they that would not, might contribute of their eſtates as themſelves pleaſed, and if his Excellency had not returned ſpeedily, great
+<pb facs="tcp:155927:3"/> dammage would have fallen on the well-affected. Theſe beginnings in his Lordſhips abſence made the Comman<g ref="char:EOLhyphen"/>ders of the ſeverall Regiments in the Army take conſide<g ref="char:EOLhyphen"/>ration what was fit to be done to prevent future miſ<g ref="char:EOLhyphen"/>chief, at length the Lord <hi>Gray</hi> ſent the ſaid Serjeant-Ma<g ref="char:EOLhyphen"/>jor <hi>Holford</hi> with two Troups of horſe and 100. Dra<g ref="char:EOLhyphen"/>goons to <hi>Wallingford,</hi> where was 800. horſe and foot of the Parliaments Forces quartered, to aid and aſſiſt them againſt the Malignants.</p>
+            <p>Friday Captain <hi>Audley</hi> under whom I ſerve went from <hi>Reading</hi> with about 100. Dragoons &amp; 200. foot, accom<g ref="char:EOLhyphen"/>panied with Captain <hi>Spurling,</hi> into the countrey adja<g ref="char:EOLhyphen"/>cen, upon report of a miſchief done by trechery at a town called <hi>Slowe,</hi> riding through the town, the ſame having many ill-affected perſons therein, and are ſecretly for the Malignants, as two Captains, <hi>viz.</hi> Captain <hi>Welch</hi> and an other marched through the town with their companies, the ſaid Captains were ſhot out of a houſe, and ſlain in the ſtreet as they rode, I was an eye-witneſſe of the ſame being at their burying: our Captain upon this accident marched to that town too, to prevent future accidents of miſhap, and in our march we were met by two troups of horſe of the Malignants, who preſently diſcharged upon us, and we again anſwered them, with whom we bickered about half an houre, and then they thought it better to run away then ſtay. We took about 20. priſoners &amp; their horſes, a Colour, and one Cap. <hi>Snag,</hi> whom we ſent with a guard to <hi>Reading,</hi> about 30. more of them were ſlain &amp; mortally wounded: we loſt two men and a Dragoon, but none hurt; then we came to <hi>Slow,</hi> and took an oath of them for their fidelity to the ſervice of the King and Par<g ref="char:EOLhyphen"/>liament, ſetling the town in peace, and diſarming all
+<pb facs="tcp:155927:4"/> the malignants that were diſcovered therein, &amp; thoſe that refuſed to take the ſaid oath, were committed to ſafe cuſtody till opportunity ſer<g ref="char:EOLhyphen"/>ved to proceed againſt them: of the perſons which we diſarmed we took 150. arms, and a<g ref="char:EOLhyphen"/>bout the eſtimate of 6. barrels of powder in private houſes, kept for the ſervice of the King, and to act private trecheries againſt any perſons of eminency that are for the Parliament, and ſhould paſſe through the town.</p>
+            <p>We have it reported for certain, that a great skirmiſh was fought this morning neer Wal<g ref="char:EOLhyphen"/>lingford betweene the Parliaments forces and the Malignants, to which bickering Serjeant-Major Holford came with his Company; the fight continued about two houres very hot; we had the newes during the fight, and I was re<g ref="char:EOLhyphen"/>ſolved to have gone to it, but before we could come at them, we received information that the skirmiſh was ended, and that the Parliaments Forces had chaſed the Malignants, and a friend of mine who was in the fight aſſured me by a letter for certain, that the Parliaments Forces took at leaſt 600 armes, one peece of ordnance, and ſlew above 300 of them, took 4. colours and 80 priſoners, of them that were ſlain was Co<g ref="char:EOLhyphen"/>lonell
+<pb facs="tcp:155927:4"/> Higgs, Captaine Waſhington, Captaine Roſſe, and Captain Young, Captain Midleſton and ſeven Lievtenants and Serjeants taken pri<g ref="char:EOLhyphen"/>ſoners: the Malignants Forces of this Army conſiſted of about 2000 horſe and Foot, and the Parliaments forces conſiſted of 600. horſe and foot, and not above ten of our ſide ſlain, and a<g ref="char:EOLhyphen"/>bout 15 ſlightly wounded.</p>
+            <p>Saturday information was brought to the in<g ref="char:EOLhyphen"/>couragement of our Army of the valiant deeds of Sir William Waller, and that he is in great hopes of ſubduing the Welchmen, &amp; reducing them into obedience to the King and Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>It is rumoured by ſome in the Army, that up<g ref="char:EOLhyphen"/>on the return of his Excellency ſome Forces ſhall go againſt P. Ruperts forces in Northam<g ref="char:EOLhyphen"/>tonſhire, to relievs that County, but others con<g ref="char:EOLhyphen"/>ceive that His Excellency with his whole Ar<g ref="char:EOLhyphen"/>my wil be for Oxford, and that with all ſpeed.</p>
+            <p>It is alſo reported that the Earle Rivers is come to the King out of the North part of the Kingdome, being driven from thence by the parliaments Forces, and that the ſaid Earl nar<g ref="char:EOLhyphen"/>rowly eſcaped in the private habit of a com<g ref="char:EOLhyphen"/>mon ſouldier from being apprehended by the
+<pb facs="tcp:155927:5"/> Parliaments ſouldiers within twenty miles of <hi>Oxford,</hi> he coming onely alone into <hi>Oxford</hi> this morning, the Kings decreaſeth, and it is credibly informed they dayly ſhrinke away from the ſervice: hereafter I ſhall ſend you the proceedings weekly, and if any things with tongue or pen in a right and honeſt way may do you good, it ſhall not in me be wanting. I would have ſent you a to<g ref="char:EOLhyphen"/>ken of my love, but not knowing how the ſame may be ſafely delivered, I forbeare till I heare from you that you receive the letters I ſend you; Thus having no other newes of conſequence to write to you at this time, pray<g ref="char:EOLhyphen"/>ing for your health, with my love commended to my ſiſter, and your little one. And ſo I reſt,</p>
+            <closer>
+               <dateline>From <hi>Reading</hi> 
+                  <date>May 21, 1643.</date>
+               </dateline>
+               <signed>Your loving Brother, ISAAC BENNET.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
